@@ -166,3 +166,9 @@ button {
 .lose a {
   color: var(--color-lose);
 }
+
+/*Scoreboard*/
+
+.tries img {
+  height: 35px;
+}
